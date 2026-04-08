@@ -376,22 +376,4 @@ We welcome contributions! Please follow these steps:
 - Update documentation as needed
 - Use meaningful commit messages
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Contact
-
-Project Maintainer - [Your Name]
-- Email: your.email@example.com
-- Project Link: [https://github.com/yourusername/delivery-platform](https://github.com/yourusername/delivery-platform)
-
-## 🙏 Acknowledgments
-
-- Inspired by Uber Eats and Instacart
-- Built for local market needs
-- Designed to empower local communities
-
----
-
-**Made with ❤️ for local businesses and communities**
